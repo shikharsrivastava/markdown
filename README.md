@@ -17,7 +17,7 @@ A markdown example shows how to write a markdown file. This document integrates 
   * [Strikethrough](#strikethrough)
 * [Miscellaneous](#miscellaneous)
   * [Automatic Links](#automatic-links)
-  * [Backslash Escapes](#backslash-escapes)
+
 * [Inline HTML](#inline-html)
 
 ## Block Elements
